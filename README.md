@@ -1,4 +1,4 @@
-# Bump the readme hello-distr
+# Bump the readme (again) hello-distr
 
 This is a web application to demonstrate the build, deployment and release workflow for applications in Distr.
 It consists of a next.js application, a Python backend and a Postgresql database.
